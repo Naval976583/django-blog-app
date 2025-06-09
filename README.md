@@ -56,7 +56,7 @@ A **feature-rich**, **SEO-optimized** blog application built with Django, design
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/yourusername/django-blog.git  
+   git clone https://github.com/Naval976583/django-blog-app.git
    cd django-blog  
    ```
 
