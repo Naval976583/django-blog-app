@@ -164,7 +164,7 @@ class EmailPostForm(forms.Form):
 
 ## 🤝 Contribute or Contact  
 
-**Author:** Your Name  
+**Author:** Naval Patil 
 - GitHub: [@Naval976583](https://github.com/Naval976583)  
 - LinkedIn: [Naval Patil](https://www.linkedin.com/in/naval-patil-45b411202/)  
 
